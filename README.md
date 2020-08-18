@@ -1,2 +1,2 @@
 # A_or_a
-Input a string
+Input a string from user
